@@ -1,41 +1,40 @@
-@import url('https://fonts.googleapis.com/css?family=Abel|Josefin+Sans|Karla|Righteous');
-#mag {width:600px;
+@import url('https://fonts.googleapis.com/css2?family=Parisienne&display=swap');
+#eliah {width:750px;
   background: #1c1c1c;
 padding-bottom:10px;
-border-bottom:10px solid #eead0e;}
-#mag .asas{background:url(https://images.vexels.com/media/users/3/126688/isolated/preview/a99e802492c4c033b2b5f884187cae09-silhueta-de-asa-detalhada-by-vexels.png) center/cover;
-  filter: invert(100%);
-width:140px;
-height:160px;
+border-bottom:10px solid #25594F;}
+#eliah .asas{background:url(https://static.vecteezy.com/system/resources/previews/001/203/213/non_2x/wing-png.png) center/cover;
+  
+width:240px;
+height:145px;
 position:relative;
 display:inline-block;
-top:-10px;}
-#mag .cabes{background:#eead0e;
-width:600px;
+top:20px;}
+#eliah .cabes{background:#25594F url(https://i.imgur.com/9z2UnhF.gif)center/cover;
+width:750px;
 height:250px;}
-#mag .icon {width:100px;
+#eliah .icon {width:100px;
 height:100px;
 background:center/cover;
 display:inline-block;
 border-radius:100px;
-border:3px solid #25594F;
+border:3px solid #000;
 position:relative;
-top:-20px;}
-#mag .titulo{font: 900 40px Righteous;
-color: #25594F; 
+top:20px;}
+#eliah .titulo{font: 900 40px Parisienne;
+color: #000; 
 line-height: 100%;
-letter-spacing: -2px;
-text-shadow: 2px 3px 1px #1c1c1c;
-text-transform:uppercase;}
-#mag .texto{font: 12px calibri;
-color: #d3d3d3;
+letter-spacing: 1px;
+text-transform:none;}
+#eliah .texto{font: 16px calibri;
+color: #dddddd;
 text-align: justify;
 margin: 15px;
 padding: 20px;
 line-height: 100%;
 position: relative;}
-#mag .frase{width:500px;
+#eliah .frase{width:650px;
   font: italic 10px tahoma;
-  color: #fafafa;
+  color: #000;
   text-transform: lowercase;
 margin-top:10px;}

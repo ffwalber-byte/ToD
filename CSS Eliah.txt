@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css?family=Abel|Josefin+Sans|Karla|Righteous');
+#mag {width:600px;
+  background: #1c1c1c;
+padding-bottom:10px;
+border-bottom:10px solid #eead0e;}
+#mag .asas{background:url(https://images.vexels.com/media/users/3/126688/isolated/preview/a99e802492c4c033b2b5f884187cae09-silhueta-de-asa-detalhada-by-vexels.png) center/cover;
+  filter: invert(100%);
+width:140px;
+height:160px;
+position:relative;
+display:inline-block;
+top:-10px;}
+#mag .cabes{background:#eead0e;
+width:600px;
+height:250px;}
+#mag .icon {width:100px;
+height:100px;
+background:center/cover;
+display:inline-block;
+border-radius:100px;
+border:3px solid #25594F;
+position:relative;
+top:-20px;}
+#mag .titulo{font: 900 40px Righteous;
+color: #25594F; 
+line-height: 100%;
+letter-spacing: -2px;
+text-shadow: 2px 3px 1px #1c1c1c;
+text-transform:uppercase;}
+#mag .texto{font: 12px calibri;
+color: #d3d3d3;
+text-align: justify;
+margin: 15px;
+padding: 20px;
+line-height: 100%;
+position: relative;}
+#mag .frase{width:500px;
+  font: italic 10px tahoma;
+  color: #fafafa;
+  text-transform: lowercase;
+margin-top:10px;}

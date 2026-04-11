@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Parisienne&display=swap');
-#eliah {width:600px;
+#eliah {width:650px;
   background: #1c1c1c;
 padding-bottom:10px;
 border-bottom:10px solid #25594F;}
@@ -11,7 +11,7 @@ position:relative;
 display:inline-block;
 top:20px;}
 #eliah .cabes{background:#25594F url(https://i.imgur.com/9z2UnhF.gif)center/cover;
-width:600px;
+width:650px;
 height:250px;}
 #eliah .icon {width:100px;
 height:100px;

@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Parisienne&display=swap');
-#eliah {width:750px;
+#eliah {width:600px;
   background: #1c1c1c;
 padding-bottom:10px;
 border-bottom:10px solid #25594F;}
@@ -11,7 +11,7 @@ position:relative;
 display:inline-block;
 top:20px;}
 #eliah .cabes{background:#25594F url(https://i.imgur.com/9z2UnhF.gif)center/cover;
-width:750px;
+width:600px;
 height:250px;}
 #eliah .icon {width:100px;
 height:100px;
@@ -26,7 +26,7 @@ color: #000;
 line-height: 100%;
 letter-spacing: 1px;
 text-transform:none;}
-#eliah .texto{font: 16px calibri;
+#eliah .texto{font: 13px Poppins;
 color: #dddddd;
 text-align: justify;
 margin: 15px;
@@ -34,7 +34,7 @@ padding: 20px;
 line-height: 100%;
 position: relative;}
 #eliah .frase{width:650px;
-  font: italic 10px tahoma;
+  font: italic 10px Poppins;
   color: #000;
   text-transform: lowercase;
 margin-top:10px;}
